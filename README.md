@@ -208,7 +208,7 @@ Trigger a mock self-destruct sequence for the gadget.
 	- On your top-right, click the **Authorize** button.
 	- Paste the JWT token in the "Value" input,  click **Authorize** and then **Close**.
 
-2.  Now, you can start using the API endpoints  to  do CRUD operations on the IMF Gadgets.
+2.  Now, you can start using the API endpoints to  do **CRUD** operations on the **IMF Gadgets**.
 > Note that, I have already populated the database with 51 fictional gadgets to be precise for your convenience.
 > 
 > When you are in the project directory, you can run the following command to populate the db with more fictional data, one run is 50 gadgets. 
@@ -241,5 +241,8 @@ node .\src\utils\generateGadgets.js
 ## 🔐 Author & Credits
 
 Developed as part of the **Phoenix: IMF Gadget API Challenge** 
-Developed and Maintained by **Kordor Pyrbot**
+
+Developed and Maintained by :
+
+**Kordor Pyrbot**, former Software Engg. fellow at **Headstarter AI**
 
